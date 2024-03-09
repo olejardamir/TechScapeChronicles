@@ -2,7 +2,7 @@
 
 # update and install requirements:
 sudo apt update
-sudo apt install -y git curl build-essential
+sudo apt install -y git curl build-essential mysql-client
 
 # Remove existing Go installations
 sudo rm -rf /usr/local/go
