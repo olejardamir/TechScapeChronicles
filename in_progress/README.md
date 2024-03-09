@@ -1,5 +1,4 @@
-PART 1, LOCAL DEVELOPMENT AND INTRODUCTION
-
+PART 1, LOCAL 
 Index:
 
     Introduction
@@ -62,3 +61,5 @@ Index:
     Conclusion
     11.1 Recap of Key Concepts
     11.2 Looking Ahead: Emerging Trends in Modern Data Infrastructure
+
+PART 2, CLOUD
